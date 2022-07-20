@@ -199,8 +199,8 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
   height: 509px;
   color: #fff;
   font-weight: bold;
-  background-image: url(../images/tukaupng.png);/* 背景画像 */
-  background-size: cover;/* 背景画像のサイズ 要素いっぱいに表示 */
+  background-image: url(../images/mitakusyasinikea.jpg);/* 背景画像 */
+  background-size:cover;/* 背景画像のサイズ 要素いっぱいに表示 */
   background-position: center center;/* 背景画像の位置 */
   background-attachment: fixed;/* スクロールしたときの背景画像の位置 固定 */
   
@@ -378,7 +378,7 @@ profileページ
 ================================================= */
 
 .profile_container h3{
-  margin-right: 30px;
+  margin-right: 90px;
 }
 
 
